@@ -1,0 +1,63 @@
+.row{
+    margin: 0px!important;
+}
+
+.bg-azul{
+    background-color: #0081C7;
+}
+
+.bg-celeste{
+    background-color: #38C5F3;
+}
+
+.bg-plomo{
+    background-color: #636363;
+}
+
+.bg-negro{
+    background-color: #404042;
+}
+
+.cl-azul {
+    color: #0081C7;
+}
+
+.cl-celeste {
+    color: #38C5F3;
+}
+
+.cl-plomo {
+    color: #636363;
+}
+
+.cl-negro {
+    color: #404042;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.flex-row-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-col-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.portada-principal {
+    background-image: url(../img/portada1.jpg);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: cover;
+}
+
+.sidenav-overlay{
+    opacity: 0!important;
+}
+
