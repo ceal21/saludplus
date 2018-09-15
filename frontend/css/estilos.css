@@ -1,25 +1,47 @@
-.row{
-    margin: 0px!important;
+body{
+    color: #636363;
+    font-family: 'Montserrat',
+    sans-serif;
 }
 
-.bg-azul{
+.row {
+    margin: 0px !important;
+}
+
+p {
+    font-size: 20px !important;
+}
+
+.bg-azul {
     background-color: #0081C7;
 }
 
-.bg-celeste{
+.bg-azul-2 {
+    background-color: #014d68;
+}
+
+.bg-celeste {
     background-color: #38C5F3;
 }
 
-.bg-plomo{
+.bg-plomo {
     background-color: #636363;
 }
 
-.bg-negro{
+.bg-negro {
     background-color: #404042;
+}
+
+.bg-rojo {
+    background-color: #8c0025 !important;
 }
 
 .cl-azul {
     color: #0081C7;
+}
+
+.cl-azul-2 {
+    color: #014d68;
 }
 
 .cl-celeste {
@@ -34,17 +56,25 @@
     color: #404042;
 }
 
-.negrita{
+.cl-rojo {
+    color: #8c0025;
+}
+
+.negrita {
     font-weight: bold;
 }
 
-.flex-row-center{
+.justificado {
+    text-align: justify !important;
+}
+
+.flex-row-center {
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
-.flex-col-center{
+.flex-col-center {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -57,7 +87,70 @@
     background-size: cover;
 }
 
-.sidenav-overlay{
-    opacity: 0!important;
+
+.btn-titulo {
+    width: 100% !important;
+    border-radius: 50px !important;
+    background-color: #0081C7 !important;
+
 }
 
+.btn-agregar {
+    width: 100% !important;
+    border-radius: 50px !important;
+    background-color: #38C5F3 !important;
+}
+
+.btn-agregar:hover {
+    width: 100% !important;
+    border-radius: 50px !important;
+    background-color: #239bb7 !important;
+    
+}
+
+.btn-foto {
+    width: 100% !important;
+    border-radius: 50px !important;
+    background-color: #8c0025 !important;
+}
+
+.btn-pagar {
+    width: 100% !important;
+    border-radius: 50px !important;
+    background-color: #014d68 !important;
+}
+
+.btn-cancelar {
+    width: 100% !important;
+    border-radius: 50px !important;
+    background-color: #0081C7 !important;
+}
+
+
+.sidenav-overlay {
+    opacity: 0 !important;
+}
+
+.card-resultado {
+    border-top: 10px solid #0081C7;
+}
+
+.card-carrito {
+    border-top: 10px solid #38C5F3;
+}
+
+.card-foto {
+    border-top: 10px solid #8c0025;
+}
+
+
+table {
+    font-size: 15px !important;
+}
+
+.div-pregunta {
+    background: #eee;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0px;
+}
