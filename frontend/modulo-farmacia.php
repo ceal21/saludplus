@@ -103,8 +103,7 @@
                     </div>
 
                     <div class="card card-foto" style="padding: 15px 10px">
-                        <div class="row" style="height: 200px; background: url(img/portada3.jpg); background-position: center;
-    background-size: cover;"></div>
+                        <div class="row" style="height: 200px; background: url(img/portada3.jpg); background-position: center;background-size: cover;"></div>
                         <div class="row">
                             <h4 class="col s12 cl-rojo negrita">Con Indicación Médica</h4>
                             <p class="col s12">Este medicamento solo puede ser vendido con prescripción Médica,
@@ -172,6 +171,8 @@
                     </div>
                 </div>
             </div>
+
+
         </div>
 
 

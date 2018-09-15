@@ -36,6 +36,10 @@ p {
     background-color: #8c0025 !important;
 }
 
+.bg-blanco-oscuro{
+    background-color: #fafafa;
+}
+
 .cl-azul {
     color: #0081C7;
 }
@@ -114,16 +118,34 @@ p {
     background-color: #8c0025 !important;
 }
 
+.btn-foto:hover {
+    width: 100% !important;
+    border-radius: 50px !important;
+    background-color: #b5043b !important;
+}
+
 .btn-pagar {
     width: 100% !important;
     border-radius: 50px !important;
     background-color: #014d68 !important;
 }
 
+.btn-pagar:hover {
+    width: 100% !important;
+    border-radius: 50px !important;
+    background-color: #028baf !important;
+}
+
 .btn-cancelar {
     width: 100% !important;
     border-radius: 50px !important;
     background-color: #0081C7 !important;
+}
+
+.btn-cancelar:hover {
+    width: 100% !important;
+    border-radius: 50px !important;
+    background-color: #05a3e8 !important;
 }
 
 

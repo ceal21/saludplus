@@ -8,8 +8,11 @@
                             <i class="material-icons">menu</i>
                         </a>
                         <ul id="nav-mobile" class="right hide-on-med-and-down">
+                            <li style="padding: 5px;">
+                                <img src="img/perfil.jpg" alt="" class="circle responsive-img" style="width: 30px!important;">
+                            </li>
                             <li>
-                                <a class="cl-plomo negrita" href="index.php">Home</a>
+                                <a class="cl-plomo negrita" href="index.php">Daniel Sanchez</a>
                             </li>
                             <li>
                                 <a class="cl-plomo negrita" href="badges.html">Cerrar Sesión</a>

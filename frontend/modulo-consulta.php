@@ -21,9 +21,9 @@
                             <nav class="bg-plomo">
                                 <div class="nav-wrapper">
                                     <div class="col s12">
-                                        <a href="#!" class="breadcrumb">First</a>
-                                        <a href="#!" class="breadcrumb">Second</a>
-                                        <a href="#!" class="breadcrumb">Third</a>
+                                        <a href="#!" class="breadcrumb">1° Paso</a>
+                                        <a href="#!" class="breadcrumb">2° Paso</a>
+                                        <a href="#!" class="breadcrumb">3° Paso</a>
                                     </div>
                                 </div>
                             </nav>
@@ -48,13 +48,23 @@
                                     <div class="col s12 l12 m10 offset-m1">
                                         <nav class="bg-azul-2">
                                             <div class="nav-wrapper">
-                                                <form>
+                                                <form class="row">
                                                     <div class="input-field">
                                                         <input id="search" type="search" required>
                                                         <label class="label-icon" for="search">
                                                             <i class="material-icons">search</i>
                                                         </label>
                                                         <i class="material-icons">close</i>
+                                                    </div>
+                                                    <div class="col s12 bg-blanco-oscuro">
+                                                        <ul class="white row">
+                                                            <li class="cl-plomo col s12 bg-blanco-oscuro">desadsa</li>
+                                                            <li class="col s12 divider"></li>
+                                                            <li class="cl-plomo col s12 bg-blanco-oscuro">desadsa</li>
+                                                            <li class="col s12 divider"></li>
+                                                            <li class="cl-plomo col s12 bg-blanco-oscuro">desadsa</li>
+                                                            <li class="col s12 divider"></li>
+                                                        </ul>
                                                     </div>
                                                 </form>
                                             </div>
